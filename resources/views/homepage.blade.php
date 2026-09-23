@@ -19,7 +19,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <div class="card card-lumen p-4">
+{{--                     <div class="card card-lumen p-4">
                         <h2 class="h5 mb-3">Oggi in sala</h2>
                         <ul class="list-unstyled mb-0">
                             <li class="d-flex justify-content-between py-2 border-bottom">
@@ -35,7 +35,7 @@
                                 <span class="text-secondary">Aggiornate ogni lunedì</span>
                             </li>
                         </ul>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>
